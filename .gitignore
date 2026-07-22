@@ -1,0 +1,16 @@
+# Ignore Python Virtual Environments
+ai_detector_env/
+venv/
+ENV/
+
+# Ignore heavy CSV datasets (root and subfolders)
+*.csv
+
+# Ignore model weights, vectorizers, and scalers
+*.pkl
+*.keras
+*.h5
+
+# Ignore bytecode/cache
+__pycache__/
+*.pyc
