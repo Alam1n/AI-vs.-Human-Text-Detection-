@@ -22,8 +22,8 @@ The pipeline achieved an overall System Accuracy of 88.33% on out-of-sample acad
 Comparative Metric Breakdown
 
 
-|Class Domain Profile| Precision| Recall | F1-Score| Overall Accuracy| 
-|--------------|-------------|----------------|----------------|
-|Human-Written (Class 0)| 92.00% | 89.00% | 0.90| 88.33% |
-|AI-Generated (Class 1)| 83.00% | 87.00% | 0.85 | 88.33% | 
+| Class Domain Profile | Precision | Recall | F1-Score | Overall Accuracy |
+|----------------------|----------:|-------:|---------:|-----------------:|
+| Human-Written (Class 0) | 92.00% | 89.00% | 90.00% | 88.33% |
+| AI-Generated (Class 1) | 83.00% | 87.00% | 85.00% | 88.33% |
 
